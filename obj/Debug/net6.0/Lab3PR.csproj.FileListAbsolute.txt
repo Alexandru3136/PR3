@@ -1,0 +1,17 @@
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\Lab3PR.exe
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\Lab3PR.deps.json
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\Lab3PR.runtimeconfig.json
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\Lab3PR.dll
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\Lab3PR.pdb
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.csproj.AssemblyReference.cache
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.AssemblyInfoInputs.cache
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.AssemblyInfo.cs
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.dll
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\refint\Lab3PR.dll
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.pdb
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.genruntimeconfig.cache
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\ref\Lab3PR.dll
+C:\Users\Alexandru\source\repos\Lab3PR\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Alexandru\source\repos\Lab3PR\obj\Debug\net6.0\Lab3PR.csproj.CopyComplete
